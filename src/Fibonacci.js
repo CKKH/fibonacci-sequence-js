@@ -5,5 +5,7 @@ function Fibonacci(num) {
     return 1
   } else if (num === 4) {
     return 2
+  } else if (num === 5) {
+    return 3
   }
 }

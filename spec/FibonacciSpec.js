@@ -14,4 +14,8 @@ describe ('Fibonacci', function() {
   it("returns 2 if asked for the 4th number of the sequence", function(){
     expect(Fibonacci(4)).toBe(2);
   });
+
+  it("returns 3 if asked for the 5th number of the sequence", function(){
+    expect(Fibonacci(5)).toBe(3);
+  });
 });
