@@ -1,3 +1,3 @@
-function Fibonaaci() {
-
+function Fibonacci() {
+  return 0;
 }
